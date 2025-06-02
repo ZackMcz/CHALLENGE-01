@@ -5,6 +5,7 @@ Este relatório apresenta uma análise completa das quatro lojas, com o objetivo
 A justificativa será baseada nessa análise, tendo como auxilio visual dos gráficos , demonstrarão alguns indicadores da realidade de cada loja avaliada.
 
 1)	No que diz respeito ao faturamento total, temos que :
+   
  • Loja 01: R$ 1.534.509,12
  • Loja 02: R$ 1.488.459,06
  • Loja 03: R$ 1.464.025,03
@@ -15,6 +16,7 @@ A justificativa será baseada nessa análise, tendo como auxilio visual dos grá
 ➡️ A Loja 04, apresenta o menor faturamento.
 
 2) Avaliação Média de Clientes
+   
 • Loja 01: 3,98
 • Loja 02: 4,04
 • Loja 03: 4,05
@@ -47,24 +49,30 @@ Livros	                        Loja 02 (R$ 13.454,35)    	Loja 01 (R$ 11.713,92)
 Loja 04 deve ser vendida. Justificativa:
 
 Loja 04 possui os menores valores em quase todas as categorias, não apresentando liderança ou especialização destacada.
+
 1.	Menor faturamento total entre todas as lojas.
 2.	Eletrodomésticos, uma das categorias mais lucrativas, tem o pior desempenho nesta loja.
 3.	Baixa performance em instrumentos musicais, categoria que apresenta melhores números na Loja 02.
 4.	A única categoria em que se destaca positivamente é brinquedos, que tem um faturamento relativamente baixo.
 
 5. Produtos Mais e Menos Vendidos
+   
 • Loja 04 - Mais Vendido: Cama Box (62 unidades)
 • Loja 04 - Menos Vendido: Guitarra (33 unidades)
+
 ➡️ Não há um produto 'campeão' de mercado ou grande diferencial.
 
-6.	Custo Médio de Frete
+7.	Custo Médio de Frete
+   
 • Loja 01: R$ 34,69
 • Loja 02: R$ 33,62
 • Loja 03: R$ 33,07
 • Loja 04: R$ 31,28
+
 ➡️ Loja 04 possui o menor custo logístico, mas a vantagem é marginal.
 
 6. Potencial de Crescimento e Diferenciação
+   
 ➡️ As demais lojas apresentam características estratégicas importantes:
 - Loja 01: Maior faturamento, com potencial de melhoria.
 - Loja 02: Foco em produtos educacionais.
@@ -72,16 +80,19 @@ Loja 04 possui os menores valores em quase todas as categorias, não apresentand
 ➡️ Loja 04: Não possui diferenciais competitivos claros.
 
 7. Decisão Estratégica
+   
 ✅ Recomendação: VENDER A LOJA 04
 
-8.	Justificativas
+9.	Justificativas
+    
 ✔️ Menor faturamento.
 ✔️ Sem diferencial competitivo.
 ✔️ Avaliação mediana.
 ✔️ Eficiência logística insuficiente para manter a operação.
 ✔️ Liberação de capital para novos investimentos.
 
-9. Sugestão de Investimento
+11. Sugestão de Investimento
+    
 ➡️ Melhorar a qualidade e avaliação da Loja 01.
 ➡️ Expandir o nicho educacional da Loja 02.
 ➡️ Fortalecer a presença de móveis na Loja 03.
