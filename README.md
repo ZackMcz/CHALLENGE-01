@@ -27,15 +27,16 @@ A justificativa será baseada nessa análise, tendo como auxilio visual dos grá
 ➡️ A Loja 04 não se destaca, com avaliação apenas mediana.
 
 3. Avaliação por Categoria
+   
 Categoria	                          Mais vendida (loja)       Menos vendida (loja)
 Eletrônicos	                    Loja 01 (R$ 572.659,23)	    Loja 04 (R$ 545.966,86)
 Eletrodomésticos	              Loja 01 (R$ 484.913,36)	    Loja 04 (R$ 377.680,65)
-Móveis	                        Loja 03 (R$ 268.095,56)    	Loja 02 (R$ 235.234,68)
-Instrumentos Musicais         	Loja 02 (R$ 139.987,03)	    Loja 04 (R$ 100.136,50)
-Esporte e Lazer	                Loja 01 (R$ 52.387,55)	    Loja 04 (R$ 44.465,65)
-Brinquedos	                    Loja 04 (R$ 27.015,67)    	Loja 02 (R$ 21.262,21)
-Utilidades Domésticas         	Loja 03 (R$ 20.080,21)	    Loja 01 (R$ 16.931,48)
-Livros	                        Loja 02 (R$ 13.454,35)    	Loja 01 (R$ 11.713,92)
+Móveis	                       Loja 03 (R$ 268.095,56)      Loja 02 (R$ 235.234,68)
+Instrumentos Musicais           Loja 02 (R$ 139.987,03)	    Loja 04 (R$ 100.136,50)
+Esporte e Lazer	              Loja 01 (R$ 52.387,55)	    Loja 04 (R$ 44.465,65)
+Brinquedos	                    Loja 04 (R$ 27.015,67)    	 Loja 02 (R$ 21.262,21)
+Utilidades Domésticas           Loja 03 (R$ 20.080,21)	    Loja 01 (R$ 16.931,48)
+Livros	                       Loja 02 (R$ 13.454,35)       Loja 01 (R$ 11.713,92)
 
 ![image](https://github.com/user-attachments/assets/fd12c4de-b33e-4e51-a6d8-7f6f674326f8)
 ![image](https://github.com/user-attachments/assets/d3cd2d38-4de5-4bf8-b790-6d77f5bc4644)
