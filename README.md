@@ -26,7 +26,7 @@ A justificativa será baseada nessa análise, tendo como auxilio visual dos grá
 
 ➡️ A Loja 04 não se destaca, com avaliação apenas mediana.
 
-3. Avaliação por Categoria
+3) Avaliação por Categoria
    
 Categoria	                          Mais vendida (loja)       Menos vendida (loja)
 Eletrônicos	                    Loja 01 (R$ 572.659,23)	    Loja 04 (R$ 545.966,86)
@@ -57,7 +57,7 @@ Loja 04 possui os menores valores em quase todas as categorias, não apresentand
 3.	Baixa performance em instrumentos musicais, categoria que apresenta melhores números na Loja 02.
 4.	A única categoria em que se destaca positivamente é brinquedos, que tem um faturamento relativamente baixo.
 
-5. Produtos Mais e Menos Vendidos
+4) Produtos Mais e Menos Vendidos
    
 • Loja 04 - Mais Vendido: Cama Box (62 unidades)
 
@@ -65,7 +65,7 @@ Loja 04 possui os menores valores em quase todas as categorias, não apresentand
 
 ➡️ Não há um produto 'campeão' de mercado ou grande diferencial.
 
-7.	Custo Médio de Frete
+5)	Custo Médio de Frete
    
 • Loja 01: R$ 34,69
 • Loja 02: R$ 33,62
@@ -74,7 +74,7 @@ Loja 04 possui os menores valores em quase todas as categorias, não apresentand
 
 ➡️ Loja 04 possui o menor custo logístico, mas a vantagem é marginal.
 
-6. Potencial de Crescimento e Diferenciação
+6) Potencial de Crescimento e Diferenciação
    
 ➡️ As demais lojas apresentam características estratégicas importantes:
 - Loja 01: Maior faturamento, com potencial de melhoria.
@@ -82,11 +82,11 @@ Loja 04 possui os menores valores em quase todas as categorias, não apresentand
 - Loja 03: Melhor avaliação e destaque em móveis.
 ➡️ Loja 04: Não possui diferenciais competitivos claros.
 
-7. Decisão Estratégica
+7) Decisão Estratégica
    
 ✅ Recomendação: VENDER A LOJA 04
 
-9.	Justificativas
+8)	Justificativas
     
 ✔️ Menor faturamento.
 ✔️ Sem diferencial competitivo.
@@ -94,7 +94,7 @@ Loja 04 possui os menores valores em quase todas as categorias, não apresentand
 ✔️ Eficiência logística insuficiente para manter a operação.
 ✔️ Liberação de capital para novos investimentos.
 
-11. Sugestão de Investimento
+9) Sugestão de Investimento
     
 ➡️ Melhorar a qualidade e avaliação da Loja 01.
 ➡️ Expandir o nicho educacional da Loja 02.
