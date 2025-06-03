@@ -45,6 +45,7 @@ Livros	                       Loja 02 (R$ 13.454,35)       Loja 01 (R$ 11.713,92
 
 
 •	Mais vendidos: Eletrônicos e eletrodomésticos dominam o faturamento em todas as lojas.
+
 •	Menos vendidos: Livros e utilidades domésticas apresentam faturamento mais baixo em todas as unidades.
 
 Loja 04 deve ser vendida. Justificativa:
@@ -59,6 +60,7 @@ Loja 04 possui os menores valores em quase todas as categorias, não apresentand
 5. Produtos Mais e Menos Vendidos
    
 • Loja 04 - Mais Vendido: Cama Box (62 unidades)
+
 • Loja 04 - Menos Vendido: Guitarra (33 unidades)
 
 ➡️ Não há um produto 'campeão' de mercado ou grande diferencial.
